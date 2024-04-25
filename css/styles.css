@@ -1,0 +1,188 @@
+
+body{
+    color: #40514E;
+    background-color: #e4f9f5;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    font-size:200%;
+}
+  
+.skill-row{
+    width: 50%;
+margin:100px auto 100px auto;
+text-align: left;
+}
+
+p{
+    line-height: 2;
+
+}
+
+.another-skill{
+    width: 50%;
+margin:100px auto 100px auto;
+text-align: left;
+
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+ a{
+   color: #11999E;
+   font-family: "Montserrat", sans-serif;
+   margin: 10px 20px;
+   text-decoration: none;
+ }
+a:hover{
+
+    color: #EAF6F6;
+}
+
+.copyright{
+  color: #EAF6F6; 
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+
+h1{
+ 
+    color: #66BFBF;
+   font-size: 5.625rem;
+    margin: 50px  auto 0  auto;
+   font-family: "Sacramento", cursive;
+}
+
+h2{
+   
+    color: #66BFBF;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    padding: 10px;
+}
+
+h3{
+  
+    font-weight: normal;
+    color: #11999E;
+    font-family: "Montserrat", sans-serif;
+}
+
+
+hr{
+    border: dotted  #0FFFF6  6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+
+    
+ 
+
+  
+}
+
+
+
+.pro{
+    text-decoration: underline;
+    
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom:300px;
+
+}
+
+.Top-cloud{
+    position:absolute;
+    right: 300px;
+    top: 40px; 
+}
+
+
+.my-image{
+    margin-top: 100px;
+ height: 200px;
+    width: 200px;
+    
+}
+
+
+.save-time{
+    float: left;
+    margin-right: 30px;
+    height: 200px;
+    width: 200px;
+  
+}
+
+.juicy-b{
+   float: right;
+    margin-left: 30px;
+    height: 200px;
+    width: 200px;
+
+   
+}
+
+.programming{
+  float: left;
+    height: 200px;
+    width: 200px;
+   margin-right: 30px;
+}
+
+.middle-container{
+margin: 100px 0 ;
+}
+
+.bottom-container{
+    background-color: #66BFBF ;
+    padding: 50px 0 20px;
+   
+
+}  
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+
+
+    
+
+.contact-button {
+    font-size:50px;
+    font-family: "Montserrat", sans-serif;
+    width:140px;
+    height:50px;
+    border-width:0px;
+    color:rgba(255, 255, 255, 1);
+    border-color:rgba(80, 227, 194, 1);
+    border-top-left-radius:8px;
+    border-top-right-radius:8px;
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
+    box-shadow: 3px 4px 0px 0px rgba(80, 227, 194, 1);
+    text-shadow: 0px 1px 0px rgba(80, 227, 194, 1);
+    background:linear-gradient(#11cdd4, #11999E );
+  }
+  
+  .contact-button:hover {
+    background: linear-gradient(#30e3cb, #2bc4ad );
+  }
+                
+                
